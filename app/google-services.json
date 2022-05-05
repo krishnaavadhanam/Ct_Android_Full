@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "821971047000",
+    "project_id": "testclevertap-8b7dc",
+    "storage_bucket": "testclevertap-8b7dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821971047000:android:7a4fb8ea05a3ce525ef02d",
+        "android_client_info": {
+          "package_name": "com.clevertap.ct_android_full"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821971047000-u8i63uhu2e8m1e31lhs76ri7b3m9fro5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGGIefx_FeK7tWyq9tTVd1NyYuV8eNHMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821971047000-u8i63uhu2e8m1e31lhs76ri7b3m9fro5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821971047000-k5fvbvsqb5hipogr0222bqrjqslk78bh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clvrtp.learnswift"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821971047000:android:ec9a1771e4a1e0c45ef02d",
+        "android_client_info": {
+          "package_name": "com.clevertap.testpushct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821971047000-u8i63uhu2e8m1e31lhs76ri7b3m9fro5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGGIefx_FeK7tWyq9tTVd1NyYuV8eNHMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821971047000-u8i63uhu2e8m1e31lhs76ri7b3m9fro5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821971047000-k5fvbvsqb5hipogr0222bqrjqslk78bh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clvrtp.learnswift"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821971047000:android:c42e43ef00a8081e5ef02d",
+        "android_client_info": {
+          "package_name": "com.example.clevertapintegrationsample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "821971047000-u8i63uhu2e8m1e31lhs76ri7b3m9fro5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGGIefx_FeK7tWyq9tTVd1NyYuV8eNHMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "821971047000-u8i63uhu2e8m1e31lhs76ri7b3m9fro5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "821971047000-k5fvbvsqb5hipogr0222bqrjqslk78bh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.clvrtp.learnswift"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
